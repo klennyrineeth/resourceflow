@@ -126,7 +126,7 @@ Getting started is as easy as:
 1. **Clone**: `git clone <your-repo-link>`
 2. **Install**: `npm install`
 3. **Run**: `npm run dev`
-4. **Visit**: [http://localhost:5173](http://localhost:5173)
+4. **Visit**: [ResourceFlow](https://resourceflow0.vercel.app/)
 
 ---
 
